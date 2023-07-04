@@ -1,5 +1,1 @@
-1. add change state in contract details after ocnfirming buttons
-2. add additions in proposal start contract
-3. round "spend" in proposal details
-4. add jobs price in proposal details, there is only drivers bid
-5. dodac padding do textu w przycisku i wyeksportowac do utilis
+
