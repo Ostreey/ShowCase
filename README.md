@@ -1,7 +1,7 @@
 # ShowCase
 Available at: https://play.google.com/store/apps/details?id=com.super_carga_mobileapp
 Login: driver10@gmail.com 
-Haslo: qwqwq1
+Password: qwqwq1
 
 This app is for recruitment only purposes. App has been developed in Flutter using best practises and recomended patterns for Flutter development. Its fully functional and works with real backend server. Application has functionalities simmilar to Upwork service, connects clients with service providers and handles contract flow and payments.
 
